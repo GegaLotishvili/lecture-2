@@ -1,0 +1,14 @@
+.nav-a {
+	color: #3D58A6;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+.nav-a-active {
+	color: #EE4036;
+}
+
+.title-addition {
+	font-size: 32px;
+	color: red;
+}
